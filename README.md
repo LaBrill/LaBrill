@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Laura Abril
+# Hi there 👋, I'm Laura Abril ✨
 
 I'm a Software Engineering student in my final semester at Universidad Manuela Beltrán. I specialize in Frontend Development, UX/UI Design, and Digital Marketing, creating digital products that connect technology with business goals. 
 
 * 🎓 Finishing my Software Engineering degree at **Universidad Manuela Beltrán**.
 * 🎨 Focused on creating functional projects and high-fidelity UX/UI prototypes.
-* ⚙️ Experienced with Agile methodologies (Scrum), SDLC, and E-commerce automation.
+* ⚙️ Experienced with Agile methodologies, AI integration, IoT, and E-commerce automation.
 * 🧠 Passionate about continuous learning, teamwork, and building products based on empathy.
 
 ### 🛠️ Tech Stack & Tools
 
-**Frontend Development & Version Control:**
+**Frontend Development & Logic:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,15 +25,19 @@ I'm a Software Engineering student in my final semester at Universidad Manuela B
 
 ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
-### 🚀 Featured Academic Projects
+### 🚀 Featured Projects
 
-* **ERP Casino (Frontend & UX/UI):** Developed the functional frontend for a casino management ERP, including the design and layout of an interactive Dashboard. Created the design system and high-fidelity prototype in Figma, managing the project under Scrum and conducting usability testing.
-* **ERP Gimnasio (Frontend & UX/UI):** Executed end-to-end UX/UI design in Figma and functional frontend development for a sports administration ERP. Managed the SDLC using Scrum for iterative deliveries and validated the interface through user testing to optimize navigation.
-* **Second-Hand Fashion Platform (UX/UI):** Developed a design system and high-fidelity prototype in Figma for a sustainable second-hand fashion platform. Conducted user testing sessions and delivered technical documentation for academic evaluation.
-* **E-commerce Automation & Marketing:** Configured multi-variant offers and automated processes integrating Funnelish, Gempage, and Shopify. Structured landing pages and designed advertising creatives focused on sales funnels and conversion.
+* **Gym360 (2025):** Desktop ERP application for gym administration. Executed end-to-end UX/UI design and functional frontend development using Scrum methodologies.
+* **Casino Royal (2024):** Desktop virtual casino featuring six games and an integrated ERP management system. Designed the interactive Dashboard in Figma and developed the frontend.
+* **GYMARK Scripts (2026):** Internal Artificial Intelligence tool developed to automatically generate advertising scripts.
+* **Robot con IA (2025):** IoT and Artificial Intelligence integration project featuring real-time facial tracking.
+* **Smash Frog (2025):** 2D video game developed using HTML5 Canvas logic and rendering.
+* **Triki en pantalla OLED (2022):** Multiplayer IoT Tic-Tac-Toe game developed for two players running on an ESP32 microcontroller.
+* **Second-Hand Fashion Platform (UX/UI):** Developed a design system and high-fidelity prototype in Figma for a sustainable fashion app, validated through user testing.
+* **E-commerce Automation:** Configured multi-variant offers and automated processes integrating Funnelish, Gempage, and Shopify.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaBrill&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="LaBrill's GitHub Stats" />
-</div>
+### 📊 GitHub Stats
+
+![LaBrill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaBrill&show_icons=true&theme=radical&hide_border=true)
