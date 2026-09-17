@@ -36,7 +36,6 @@ I'm a Software Engineering student in my final semester at Universidad Manuela B
 * **Second-Hand Fashion Platform (UX/UI):** Developed a design system and high-fidelity prototype in Figma for a sustainable fashion app, validated through user testing.
 * **E-commerce Automation:** Configured multi-variant offers and automated processes integrating Funnelish, Gempage, and Shopify.
 
----
 
 ### 📊 GitHub Stats
 
